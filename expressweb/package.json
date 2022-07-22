@@ -1,0 +1,15 @@
+{
+  "name": "expresbyweb",
+  "version": "1.0.0",
+  "description": "web project by hinal pachori",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hinal Pachori",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0"
+  }
+}
